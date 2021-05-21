@@ -1,5 +1,5 @@
 # Git_Course
-##Learn Git
+## Learn Git
 To learn Git from Elzero channel
 
 ### Project notes
